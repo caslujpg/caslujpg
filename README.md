@@ -8,7 +8,7 @@
 Curso Sistemas para Internet no [IFES](https://www.ifes.edu.br) (Instituto Federal do Espirito Santo), com previsão para conclusão em 2025. <br/>
 Venho estudando desenvolvimento front-end, utilizando principalmente **Javascript | Typescript | React.JS | HTML | CSS.** <br/>
 **Estou buscando minha primeira vaga como desenvolvedor front-end.** <br/>
-Também estou começando a estudar novas linguagens como C, C++, Python e Node.JS.
+Também estou buscando novos conhecimentos em outras linguagens como C, C++, Python e Node.JS.
 
 <div>
   <a href="https://github.com/caslujpg">
