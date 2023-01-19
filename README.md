@@ -6,11 +6,12 @@
 
 ### Sobre mim
 Curso Sistemas para Internet no [IFES](https://www.ifes.edu.br) (Instituto Federal do Espirito Santo), com previsão para conclusão em 2025. <br/>
-Venho estudando desenvolvimento front-end, utilizando principalmente **Javascript | Typescript | React.JS | HTML | CSS.** <br/>
+Desenvolvo front-end, utilizando principalmente **Javascript | Typescript | React Native | React.JS | HTML | CSS.** <br/>
 Também estou buscando novos conhecimentos em outras linguagens como C, C++, Python e Node.JS.
 
 <div>
   <a href="https://github.com/caslujpg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caslujpg&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=caslujpg)](https://github.com/caslujpg/github-readme-stats)" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caslujpg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
